@@ -1,2 +1,2 @@
-# BASIC-CALCUL-ATOR
+# BASIC-CALCULATOR
 Basic Arithmetic Calculator
